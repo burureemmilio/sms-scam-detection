@@ -3,11 +3,7 @@
 
 ### An End-to-End Data Science Project for Detecting Fraudulent SMS Messages in the Kenyan Mobile Money Context
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)
-![NLP](https://img.shields.io/badge/NLP-TF--IDF-green)
-![Streamlit](https://img.shields.io/badge/Deployment-Streamlit-red)
-![Status](https://img.shields.io/badge/Status-Research%20Prototype-yellow)
+
 
 ## Project Overview
 
